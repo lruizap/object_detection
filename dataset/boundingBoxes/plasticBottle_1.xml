@@ -1,0 +1,14 @@
+<annotation verified="yes">
+	<folder>train</folder>
+	<filename>plasticBottle_1.jpg</filename>
+	<path>C:\Proyectos\IA\object_detection\dataset\train\plasticBottle_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>623</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
