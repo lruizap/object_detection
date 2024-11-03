@@ -5,7 +5,7 @@ from bing_image_downloader import downloader
 
 # Define the category and total number of images to download
 category = "one plastic bottle"  # Search term
-total_images = 200               # Number of images to download
+total_images = 20               # Number of images to download
 
 # Specify the custom output directory
 # Change this to your desired directory name
