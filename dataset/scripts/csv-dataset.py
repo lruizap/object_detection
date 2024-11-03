@@ -38,6 +38,6 @@ def convert_voc_to_csv(input_dir, output_csv):
 
 # Ejemplo de uso
 # Cambia esta ruta según tus necesidades
-input_dir = 'dataset/boundingBoxes/'
-output_csv = 'dataset/bounding_boxes.csv'
+input_dir = 'dataset/data/boundingBoxes/'
+output_csv = 'dataset/dataset.csv'
 convert_voc_to_csv(input_dir, output_csv)

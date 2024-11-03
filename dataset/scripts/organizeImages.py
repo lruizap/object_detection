@@ -3,9 +3,9 @@ import shutil
 import random
 
 # Define paths for input and output
-input_dir = 'dataset/plasticBottle'
-output_train_dir = 'dataset/train'
-output_test_dir = 'dataset/test'
+input_dir = 'dataset/data/plasticBottle'
+output_train_dir = 'dataset/data/train'
+output_test_dir = 'dataset/data/test'
 
 # Create output directories if they don't exist
 os.makedirs(output_train_dir, exist_ok=True)

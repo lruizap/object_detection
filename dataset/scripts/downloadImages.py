@@ -9,14 +9,14 @@ total_images = 20               # Number of images to download
 
 # Specify the custom output directory
 # Change this to your desired directory name
-custom_output_dir = "dataset/plasticBottle"
+custom_output_dir = "dataset/data/plasticBottle"
 
 # Create the directory if it doesn't exist
 os.makedirs(custom_output_dir, exist_ok=True)
 
 # Download images into a temporary folder
 # Temporary folder for initial downloads
-temp_output_dir = "dataset/temp_download"
+temp_output_dir = "dataset/data/temp_download"
 downloader.download(
     category,                       # Search term
     limit=total_images,             # Number of images to download
