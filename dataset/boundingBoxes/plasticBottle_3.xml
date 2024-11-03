@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>plasticBottle_3.jpg</filename>
+	<path>C:\Proyectos\IA\object_detection\dataset\train\plasticBottle_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>826</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>130</ymin>
+			<xmax>651</xmax>
+			<ymax>1227</ymax>
+		</bndbox>
+	</object>
+</annotation>
