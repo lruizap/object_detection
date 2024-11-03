@@ -4,8 +4,8 @@ import random
 
 # Define paths for input and output
 input_dir = 'dataset/data/plasticBottle'
-output_train_dir = 'dataset/data/train'
-output_test_dir = 'dataset/data/test'
+output_train_dir = 'dataset/data/train/plasticBottle'
+output_test_dir = 'dataset/data/test/plasticBottle'
 
 # Create output directories if they don't exist
 os.makedirs(output_train_dir, exist_ok=True)
